@@ -1,0 +1,17 @@
+* {
+    /* Tất cả thuộc tính sẽ được tính trong kích thước width và height đã đặt.
+    Ví dụ: pading,boder,...
+    */
+    box-sizing: border-box;
+}
+
+html {
+    /* %	Phần trăm của phần tử cha */
+    font-size: 62.5%;
+}
+
+body {
+    /* rem	Dựa trên font-size của thẻ <html> */
+    font-size: 1.6rem;
+    font-family: "Poppins";
+}
