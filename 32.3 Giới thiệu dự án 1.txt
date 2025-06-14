@@ -1,0 +1,5 @@
+Tài nguyên trong bài học:
+
+- Real Estate Landing Page (Easy): https://short.f8team.dev/du-an-1
+- Source code của dự án trên Github: https://github.com/sondnpt00343/htmlcss-project-01
+- Thành quả sau khi học xong chương này: https://sondnpt00343.github.io/htmlcss-project-01/
